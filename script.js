@@ -1,4 +1,4 @@
-let options = ['rock', 'paper', 'scissors']; //Create array for options
+const options = ['rock', 'paper', 'scissors']; //Create array for options
 function gameRound(computerSelection, playerSelection){     
 let winner
 let message
